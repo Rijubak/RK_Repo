@@ -6,6 +6,4 @@ print(y+1)
 z =2*(x+y)
 #PULL_CHECK
 #ADD_DATA_REPOSITORY
-
-##CODE_ENCODED ====MASTER====
-
+#MASTER_CODE
