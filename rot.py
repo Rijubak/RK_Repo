@@ -7,7 +7,5 @@ z =2*(x+y)
 #PULL_CHECK
 #ADD_DATA_REPOSITORY
 
-#NFL_MASTER_CODE
-
-#NFL Change ONLY TO _SUB_
+#fact(z)  MASTER_LOOP
 
