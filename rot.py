@@ -3,5 +3,5 @@ x = 5
 print(x)
 y =x
 print(y+1)
-z = x+y
+z =2*(x+y)
 
